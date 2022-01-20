@@ -5,6 +5,7 @@ Given two logic formula A and B, if A ^ B = false, then there must exist an inte
 2. I ^ B = false 
 3. I refers only to common variable of A and B
 ![](https://i.imgur.com/fGx00Ac.png)
+
 Reference: Interpolation and SAT-based Model Checking, K. L. McMillan
 
 ## Algorithm Description
