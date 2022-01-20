@@ -1,0 +1,7 @@
+1 false 0 0
+2 OR 2 0 0
+3 true 0 0
+4 true 0 0
+5 OR 0 1 2 0
+6 AND 0 5 3 0
+7 AND 0 6 4 0
